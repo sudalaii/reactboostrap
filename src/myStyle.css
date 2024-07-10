@@ -1,0 +1,115 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    text-transform: capitalize;
+}
+
+.watch {
+    background-color: #FFF5E2;
+}
+
+.watchright h1 {
+    Font-Size: 56px;
+    color: black;
+    align-items: start;
+}
+
+.price {
+    Font-size: 25px;
+
+}
+
+.neckband {
+    background-color: #F4F0FF;
+}
+
+.neckband h1 {
+    Font-Size: 65px;
+    color: black;
+    align-items: start;
+
+}
+
+.shopproducts button {
+    background-color: black;
+    color: white;
+    border-radius: 15px;
+    padding-left: 60px;
+    padding-right: 60px;
+    font-size: 20px;
+}
+
+
+
+.hello {
+    display: flex;
+    justify-Content: center;
+    align-Items: center;
+}
+
+.neckbandbox {
+    padding: 10px;
+
+}
+
+.cardcontainer {
+    background-color: aliceblue;
+    justify-content: space-evenly;
+    align-items: center;
+    gap: 50px;
+}
+
+.addtocart {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    font-size: 30px;
+
+
+}
+
+.addtocart button {
+    border-radius: 70px;
+    color: white;
+    background-color: black;
+    padding-right: 50px;
+    padding-left: 50px;
+    text-transform: capitalize;
+    font-size: 18px;
+
+}
+
+.watchbox {
+    padding-left: 40px;
+    padding-right: 40px;
+    gap: 40px;
+}
+
+.card img,
+custom-card-img-top {
+    border-top-left-radius: 15px;
+    border-top-right-radius: 15px;
+}
+
+.footer {
+    background-color: #E7F0F5;
+}
+
+.tws {
+    background-color: #EDFEFE;
+}
+
+.boomheadset {
+    background-color: #E0EEEB;
+}
+
+.bluetooth {
+    background-color: #F4F7FF;
+}
+
+@media screen and (max-width:480px){
+    .actor{
+        overflow-x: scroll;
+    }
+}
+
